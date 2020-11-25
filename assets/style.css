@@ -32,5 +32,27 @@
 #customer-service { 
     display: inline;
 }
+/*----------Navbar----------*/
+
+.active { 
+    background-color: purple;
+}
+
+.navbar {
+  width: 75%;
+  background-color: #9999cc;
+  overflow: auto;
+  border: 5px solid purple;
+}
+
+.navbar a {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+}
+.navbar a:hover {
+  background-color: blueviolet;
+}
 
 /*----------Media----------*/
