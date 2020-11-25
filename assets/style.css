@@ -1,0 +1,36 @@
+.header { 
+    text-align: center;
+    height: 100px;
+    width: auto;
+    background-color: #9999cc;
+    padding: 1%
+}
+
+.content {   
+    width: auto;
+    height: 500px;
+    border: 5px solid purple;
+    padding: 50px;
+    margin: 20px;}
+
+.column {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: purple;
+   color: white;
+   text-align: center;
+}
+
+#customer-service { 
+    display: inline;
+}
+
+/*----------Media----------*/
