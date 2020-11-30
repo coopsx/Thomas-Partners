@@ -20,19 +20,29 @@
   background-color: blueviolet;
 }
 
-.content {   
-    width: auto;
-    height: 340px;
-    border: 5px solid purple;
-    padding: 50px;
-    margin: 20px;}
-
 .column {
     float: left;
     width: 50%;
     text-align: center;
+   
 }
 
+.column-l {
+    float: left;
+    width: 75%;
+   
+    padding: 1%;
+    margin: 10px;
+   
+    
+}
+
+.column-r {
+    float: left;
+    width: 25%;
+    
+    padding: 1%
+}
 .footer {
    position: fixed;
    left: 0;
